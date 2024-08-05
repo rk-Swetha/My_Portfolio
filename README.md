@@ -12,7 +12,7 @@ Hosted on Netlify. Feel free to explore and contact me for any opportunities or 
 
 ## Getting Started
 
-To view the portfolio, simply visit [https://your-portfolio-url.netlify.app](https://your-portfolio-url.netlify.app).
+To view the portfolio, simply visit https://rkswetha-portfolio.netlify.app
 
 - **Future Updates**
 
