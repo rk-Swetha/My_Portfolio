@@ -5,7 +5,6 @@ Personal portfolio website of R.K. Swetha, showcasing skills, and contact inform
 
 - **Home**: Introduction and overview of my professional profile.
 - **About Me**: Detailed information about my educational background and skills.
-- **Projects**: A showcase of my notable projects and achievements.
 - **Contact Me**: A form to get in touch with me directly.
 - **Resume**: Downloadable PDF version of my resume.
 
